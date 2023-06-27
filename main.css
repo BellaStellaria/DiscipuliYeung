@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+.about{
+  font-size: 25px;
+}
+.header{
+  background-image: url('dog.jpg');
+  background-size: cover;
+  padding: 100px;
+}
+.logo{ 
+  font-size: 120px;
+  text-align: center;
+  font-family: 'Great Vibes';
+}
+
+h2{
+  font-size: 30px;
+}
+a{
+  font-size: 30px;
+}
+body{
+  background-color: #0bbed0 ;
+}
+
+img{
+  margin-left: 290px;
+  margin-right: 400px;
+  vertical-align: top;
+  width: 350px;
+  border-width: 69px;
+  border-top: 69px solid #769bf1;
+  border-bottom: 69px solid #0f3899;
+  border-left: 69px solid #1755e8;
+  border-right: 69px solid #1755e8;
+  margin-top: 60px;
+  margin-bottom: 60px; 
+}
+
+.main{
+  font-size: 21px;
+  text-align: center;
+}
+
+.product{
+  font-size: 20px;
+  text-align: center;
+}
+
+.location{
+  font-size: 25px;
+  text-align: center;
+
+}
+
+.footer{
+  font-size: 23px;
+  text-align: center;
+}
+  
+body {
+  width: 1024px;
+}
