@@ -5,7 +5,9 @@
 .header{
   background-image: url('dog.jpg');
   background-size: cover;
+  text-align: center;
   padding: 100px;
+  width: 1024px;
 }
 .logo{ 
   font-size: 120px;
@@ -20,7 +22,7 @@ a{
   font-size: 30px;
 }
 body{
-  background-color: #0bbed0 ;
+  background-color: white;
 }
 
 img{
@@ -29,10 +31,10 @@ img{
   vertical-align: top;
   width: 350px;
   border-width: 69px;
-  border-top: 69px solid #769bf1;
-  border-bottom: 69px solid #0f3899;
-  border-left: 69px solid #1755e8;
-  border-right: 69px solid #1755e8;
+  border-top: 69px solid #96b172;
+  border-bottom: 69px solid #5b713e;
+  border-left: 69px solid #6c8549;
+  border-right: 69px solid #6c8549;
   margin-top: 60px;
   margin-bottom: 60px; 
 }
@@ -60,4 +62,9 @@ img{
   
 body {
   width: 1024px;
+}
+
+h3{
+  text-align: center; 
+  border-bottom: 6px solid #96b172
 }
